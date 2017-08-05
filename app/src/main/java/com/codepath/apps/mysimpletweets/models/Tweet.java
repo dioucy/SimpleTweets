@@ -23,6 +23,7 @@ public class Tweet {
         return uid;
     }
     private String createdAt;
+
     public String getCreatedAt() {
         return createdAt;
     }
